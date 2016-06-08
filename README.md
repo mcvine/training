@@ -15,6 +15,12 @@ then
 $ conda install jupyter
 ```
 
+Certainly we also need mcvine installed
+
+```
+$ conda install mcvine
+```
+
 To start using materials here, run
 
 ```
