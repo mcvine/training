@@ -6,6 +6,6 @@ To use the materials,
 
 * start by [getting the materials](0. Getting-the-training-material.ipynb)
 * follow by [setup](1. Setup.ipynb)
-* browse through [introduction](Introductions.md)
+* browse through [introduction](Introduction.md)
 * follow tutorials
   - [ARCS](ARCS)
