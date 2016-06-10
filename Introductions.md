@@ -1,4 +1,4 @@
-## Introductions
+## Introduction
 
 * [Overview](2.1 Introduction - Overview.ipynb)
 * [Examples](2.2 Introduction - Examples.ipynb)
