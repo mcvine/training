@@ -1,6 +1,6 @@
 # MCViNE training
 
-Help MCViNE users to understand the use cases and learn how to run a simulation.
+Help MCViNE users to understand the use cases and learn how to run simulations.
 
 To use the materials, 
 
