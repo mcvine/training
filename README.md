@@ -9,3 +9,7 @@ To use the materials,
 * browse through [introduction](Introduction.md)
 * follow tutorials
   - [ARCS](ARCS)
+
+Prerequisites:
+* Some knowledge of Unix command line and Python language will greatly help
+* A good place for researchers to start learning Unix and Python is [Software carpentry](http://software-carpentry.org/lessons)
