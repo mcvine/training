@@ -7,7 +7,7 @@ To use the materials,
 * start by [getting the materials](0. Getting-the-training-material.md)
 * follow by [setup](1. Setup.md)
 * browse through [introduction](2. Introduction/Overview.md)
-* follow the tutorial notebooks in the subdirectories. Notebooks can be opened by [jupyter notebook](http://jupyter.org/):
+* follow the tutorial notebooks in the subdirectories (For example, [ARCS](ARCS)). Notebooks can be opened by [jupyter notebook](http://jupyter.org/):
 ```
  $ jupyter notebook
 ```
