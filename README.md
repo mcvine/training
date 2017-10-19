@@ -1,4 +1,5 @@
-# MCViNE training
+# MCViNE training with jupyter notebooks
+
 
 ## Use jupyter.sns.gov
 * Access analysis.sns.gov through thinlinc connection
