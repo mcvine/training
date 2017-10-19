@@ -1,7 +1,7 @@
 # MCViNE training with jupyter notebooks
 
 
-## Use jupyter.sns.gov
+## Use SNS jupyter server
 * Access analysis.sns.gov through thinlinc connection
 * Start a browser and point to https://jupyter.sns.gov
 * Log in using your UCAMS or XCAMS account
