@@ -1,2 +1,7 @@
+#!/bin/bash
+
 git clone https://github.com/yxqd/dotmantid ~/.mantid
-# python -c "import mantid"
+echo $PATH
+which conda
+source activate kernel
+python -c "import mantid"
