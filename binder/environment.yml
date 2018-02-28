@@ -146,7 +146,7 @@ dependencies:
 - mcvine.instruments=0.1.0a3=py27_0
 - mcvine.phonon=0.1.0a4=py27_0
 - mcvine.workflow=0.1.0a4=py27_0
-- mcvine.ui=0.0.1a1
+- mcvine.ui=0.0.1a2
 - pyre=0.8.1unstable=py27_0
 - ipywe=0.1.1a8=py27_0
 - pip:
