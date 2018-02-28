@@ -148,7 +148,7 @@ dependencies:
 - mcvine.workflow=0.1.0a4=py27_0
 - mcvine.ui=0.0.1a2
 - pyre=0.8.1unstable=py27_0
-- ipywe=0.1.1a8=py27_0
+- ipywe=0.1.1a9=py27_0
 - pip:
   - backports-abc==0.5
   - backports.shutil-get-terminal-size==1.0.0
