@@ -1,0 +1,23 @@
+Eaxis:
+ min: -3
+ max: 5.1
+ N: 405
+Q_projections:
+ U:
+  proj: 1,0,0
+  proj_name: H,0,0
+  min: -1
+  max: 4.2
+  N: 260
+ V:
+  proj: 0,1,0
+  proj_name: 0,K,0
+  min: 0.93
+  max: 1.07
+  N: 1
+ W:
+  proj: 0,0,1
+  proj_name: 0,0,L
+  min: -1
+  max: 1
+  N: 1

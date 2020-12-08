@@ -1,0 +1,9 @@
+cluster:
+  nodes: 40
+instrument:
+  name: hyspec
+scatter:
+  ncount: 1e6
+  buffer_size: 50000
+  multiple_scattering: off
+  template: ./template
