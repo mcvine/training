@@ -1,0 +1,2 @@
+rm -rf *out *.params *.dat
+rm -f job2.sh.e*  job2.sh.o*  README.sequoia_beam  run-m2s.sh  sequoia_moderator2sample.pml
