@@ -19,4 +19,4 @@ $ source activate mcvine3
 ```$ git clone https://github.com/yxqd/dotmantid.git ~/.mantid```
 
 ## Run examples
-See sub-folders here
+See sub-folders 
