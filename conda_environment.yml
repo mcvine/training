@@ -1,0 +1,25 @@
+name: mcvine
+channels:
+  - conda-forge
+  - mantid
+  - mcvine
+  - defaults
+dependencies:
+  - mantid-framework>=6
+  - mcvine=1.4.5
+  - mcvine.ui
+  - multiphonon
+  - ipykernel
+  - ipympl
+  - lmfit
+  - openmpi
+  - pandas
+  - python=3.9
+  - tqdm
+  - pylatex
+  - cloudpickle
+  - scikit-image
+  - pip
+  - pip:
+    - matlab
+    - mcpl
